@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+}
+header{
+    background-color: black;
+    height:80px;
+    display:flex;
+    align-items: center;
+    color:white;
+    justify-content: center;
+}
+h1,p,button{
+    margin-top: 20px;
+}
